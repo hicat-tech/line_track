@@ -32,6 +32,8 @@
 #include<errno.h>      /*错误号定义*/
 #include<string.h>
 
+#include "libserial.h"
+
 
 //宏定义
 #define FALSE  -1
